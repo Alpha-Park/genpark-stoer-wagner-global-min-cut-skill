@@ -1,0 +1,13 @@
+{
+  "name": "genpark-stoer-wagner-global-min-cut-skill",
+  "version": "1.0.0",
+  "description": "Stoer-Wagner algorithm finding the global minimum cut in an undirected weighted graph without designating source and sink nodes in O(V^3).",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "stoer-wagner",
+    "global-min-cut",
+    "graph-connectivity",
+    "network-reliability"
+  ]
+}
